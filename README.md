@@ -9,6 +9,8 @@
 **Authentication:** Not required  
 **User Interaction:** No additional interaction after the crafted share intent is processed (pending runtime confirmation)
 
+<img width="1193" height="692" alt="image" src="https://github.com/actuator/com.ticktick.task/blob/main/%20com.ticktick.task-PAthTrav-DS.gif" />
+
 ### Vulnerability Description
 
 TickTick Android version 8.2.2.0 contains a  Dirty Stream path traversal vulnerability in its attachment import functionality.
